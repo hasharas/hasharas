@@ -89,7 +89,7 @@ Hello! I'm **Hashara Sankalpa** 👨‍💻, a passionate **full-stack developer
   </span>
 
 ## 📫 **Reach Me At**  
-
+<div align="center">
   <p>
   <a href="mailto:hasharamsankalpam@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="20" height="20"/>
@@ -108,6 +108,8 @@ Hello! I'm **Hashara Sankalpa** 👨‍💻, a passionate **full-stack developer
   </a>
  hasharas
   </p>
+
+  </div>
 
 <!---
 hasharas/hasharas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
