@@ -6,6 +6,10 @@
 
 Hello! I'm **Hashara Sankalpa** 👨‍💻, a passionate **full-stack developer** with experience in building dynamic applications using:
 
+![Profile Views](https://komarev.com/ghpvc/?username=hasharas&color=blue&style=flat)
+
+
+
 ##  🌟 Front-end 
 
 <span>
