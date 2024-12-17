@@ -37,7 +37,7 @@ Hello! I'm **Hashara Sankalpa** 👨‍💻, a passionate **full-stack developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
 </span>
 
-### ⚙️ Back-End
+## ⚙️ Back-End
 
 <span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>  
