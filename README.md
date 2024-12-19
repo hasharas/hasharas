@@ -3,10 +3,11 @@
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="400" height="300" alt="ME" />
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=hasharas&color=blue&style=flat)
 
 Hello! I'm **Hashara Sankalpa** 👨‍💻, a passionate **full-stack developer** with experience in building dynamic applications using:
 
-![Profile Views](https://komarev.com/ghpvc/?username=hasharas&color=blue&style=flat)
+
 
 
 
