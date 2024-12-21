@@ -93,6 +93,10 @@ Hello! I'm **Hashara Sankalpa** 👨‍💻, a passionate **full-stack developer
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GitHub" width="40" height="40"/>
   </span>
 
+## ⚡Activity Graph
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hasharas&theme=react-dark"/>
+  
+
 ## 📫 **Reach Me At**  
 <div align="center">
   <p>
