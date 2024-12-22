@@ -1,7 +1,7 @@
 <!-- hi msg-->
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=EBE912&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hashara" alt="Typing SVG"></a><span><img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70" alt="jumping.gif"></span>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=58a6ff&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hashara" alt="Typing SVG"></a><span><img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70" alt="jumping.gif"></span>
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%"></img>
 
@@ -116,25 +116,24 @@
 
 
 <div align="center">
-  <h1>⚡Activity Graph</h1>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hasharas&theme=react-dark"/>
+  <h1 style="color: #58a6ff;">⚡Activity Graph</h1>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hasharas&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=58a6ff&hide_border=true"/>
 </div>
 
 <div align="center">
-  <h1>Streak's 🔥</h1>
-  <img alt="Hasharas's streak" src="https://streak-stats.demolab.com?user=hasharas&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&card_width=460&background=15F80009&border=19F80582&stroke=19F80582&ring=19F805F7&fire=19F805FD&currStreakNum=FDFF35&currStreakLabel=FDFF35&mode=weekly">
+  <h1 style="color: #58a6ff;">Streak's 🔥</h1>
+  <img alt="Hasharas's streak" src="https://streak-stats.demolab.com?user=hasharas&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&card_width=460&background=0d1117&border=58a6ff&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=ffffff&mode=weekly">
 </div>
 <br>
 <div align="center">
-  <h1>Stat's 🌟</h1>
-  <img alt="Hasharas's stats" src="https://github-readme-stats.vercel.app/api?username=hasharas&show_icons=true&theme=chartreuse-dark&border_color=19f80582&icon_color=15f800b6&bg_color=15f80009&custom_title=Hasharas's_Github_stats&card_width=100&hide=issues">
+  <h1 style="color: #58a6ff;">Stat's 🌟</h1>
+  <img alt="Hasharas's stats" src="https://github-readme-stats.vercel.app/api?username=hasharas&show_icons=true&theme=react-dark&border_color=58a6ff&icon_color=58a6ff&bg_color=0d1117&custom_title=Hasharas's_Github_stats&card_width=100&hide=issues&text_color=ffffff">
 </div>
 <br>
 <div align="center">
-  <h1>Top Used Language's 📈</h1>
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasharas&theme=chartreuse-dark&layout=compact&card_width=300&border_color=19f80582&bg_color=15f80009">
+  <h1 style="color: #58a6ff;">Top Used Language's 📈</h1>
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasharas&theme=react-dark&layout=compact&card_width=300&border_color=58a6ff&bg_color=0d1117&text_color=ffffff">
 </div>
-  
 
 ## 📫 **Reach Me At**  
 <div align="center">
