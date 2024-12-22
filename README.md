@@ -1,4 +1,5 @@
-## About Me 👋
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=EBE912&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hashara" alt="Typing SVG" /></a></h1>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="400" height="300" alt="ME" />
 </div>
