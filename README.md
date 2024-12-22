@@ -94,8 +94,26 @@ Hello! I'm **Hashara Sankalpa** 👨‍💻, a passionate **full-stack developer
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GitHub" width="40" height="40"/>
   </span>
 
-## ⚡Activity Graph
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hasharas&theme=react-dark"/>
+
+<div align="center">
+  <h1>⚡Activity Graph</h1>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hasharas&theme=react-dark"/>
+</div>
+
+<div align="center">
+  <h1>Streak's 🔥</h1>
+  <img alt="Hasharas's streak" src="https://streak-stats.demolab.com?user=hasharas&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&card_width=460&background=15F80009&border=19F80582&stroke=19F80582&ring=19F805F7&fire=19F805FD&currStreakNum=FDFF35&currStreakLabel=FDFF35&mode=weekly">
+</div>
+<br>
+<div align="center">
+  <h1>Stat's 🌟</h1>
+  <img alt="Hasharas's stats" src="https://github-readme-stats.vercel.app/api?username=hasharas&show_icons=true&theme=chartreuse-dark&border_color=19f80582&icon_color=15f800b6&bg_color=15f80009&custom_title=Hasharas's_Github_stats&card_width=100&hide=issues">
+</div>
+<br>
+<div align="center">
+  <h1>Top Used Language's 📈</h1>
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasharas&theme=chartreuse-dark&layout=compact&card_width=300&border_color=19f80582&bg_color=15f80009">
+</div>
   
 
 ## 📫 **Reach Me At**  
