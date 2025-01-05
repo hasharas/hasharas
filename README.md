@@ -13,7 +13,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hasharas&color=blue&style=flat)
 
-<h3 style="color: #58a6ff; text-align: center;">Hello! I'm Hashara Sankalpa 👨‍💻</h3>
+<h1 style="color: #58a6ff; text-align: center;">Hello! I'm Hashara Sankalpa 👨‍💻</h1>
+
+<!-- portfolio -->
+
+🌐 Check out my [Portfolio](https://hasharaportfolio.netlify.app)!
+
 <p style="text-align: center; font-family: Arial, sans-serif; font-size: 18px; color: #ffffff;">
   A passionate <strong style="color: #58a6ff;">full-stack developer</strong> with experience in building dynamic applications using:
 </p>
