@@ -17,11 +17,11 @@
 
 <!-- portfolio -->
 
-🌐 Check out my [Portfolio](https://hasharaportfolio.netlify.app)!
+🌐  Check out my [Portfolio](https://hasharaportfolio.netlify.app)!
 
-<p style="text-align: center; font-family: Arial, sans-serif; font-size: 18px; color: #ffffff;">
-  A passionate <strong style="color: #58a6ff;">full-stack developer</strong> with experience in building dynamic applications using:
-</p>
+<h3 style="text-align: center; font-family: Arial, sans-serif; font-size: 30px; color: #ffffff;">
+🌟  A passionate <strong style="color: #58a6ff;">full-stack developer</strong> with experience in building dynamic applications using:
+</h3>
 
 
 
