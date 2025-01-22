@@ -17,6 +17,22 @@
 
 <!-- portfolio -->
 
+<h2 align="center">💰 Donate to Hashara</h2>
+<p align="center">Your support keeps me fueled and creating! Thanks!</p>
+<p align="center">
+    <a href="https://buymeacoffee.com/hasharas?new=1" target="_blank">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+    </a>
+    <a href="https://buymeacoffee.com/hasharas?new=1" target="_blank">
+        <img src="https://img.shields.io/badge/Buy%20Me%20Two%20Coffees-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me Two Coffees">
+    </a>
+    <a href="https://buymeacoffee.com/hasharas?new=1" target="_blank">
+        <img src="https://img.shields.io/badge/Buy%20Me%20Three%20Coffees-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me Three Coffees">
+    </a>
+</p>
+</details>
+
+
 🌐  Check out my [Portfolio](https://hasharaportfolio.netlify.app)!
 
 <h3 style="text-align: center; font-family: Arial, sans-serif; font-size: 30px; color: #ffffff;">
