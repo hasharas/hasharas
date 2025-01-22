@@ -17,7 +17,7 @@
 
 <!-- portfolio -->
 
-<h2 align="center">💰 Donate to Hashara</h2>
+<h2 align="center">💰 Donate to me...</h2>
 <p align="center">Your support keeps me fueled and creating! Thanks!</p>
 <p align="center">
     <a href="https://buymeacoffee.com/hasharas?new=1" target="_blank">
