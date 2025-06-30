@@ -179,6 +179,12 @@
   </a>
  hasharas
   </p>
+  <p style="cursor:pointer">
+  <a href="https://hasharaportfolio.netlify.app/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Website" width="20" height="20"/>
+  </a>
+  My Portfolio
+</p>
 
   </div>
 
